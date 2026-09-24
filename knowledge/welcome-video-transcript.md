@@ -1,0 +1,84 @@
+# Membership area welcome video transcript
+**Source:** `Diet vs Disease Membership Area.mp4`
+**Transcription:** OpenAI Whisper `base`, English; generated locally. Automated speech recognition can mishear names and specialist terms.
+
+## What this video says
+- The program is presented as a self-paced mix of written and video lessons, recommended in listed order.
+- It introduces a 14-day digestive health reboot, focusing on a FODMAP elimination phase; the speaker says a reintroduction program is available if purchased separately.
+- The speaker says the course also introduces concepts beyond diet because digestive health and food intolerance vary between people.
+- Some lessons have downloadable/printable resources. Lessons are taught by Joe Leach and other gut-specialist dietitians.
+- Navigation guidance: on desktop/tablet, the lesson menu is likely on the left; on mobile, scroll to the top to select a lesson, then scroll below the menu to view it.
+- The speaker describes being symptom-free as the program goal. This is a stated goal, not a guaranteed outcome or individualized medical advice.
+
+## Transcript
+
+### 00:00.000 --> 00:15.000
+Hello, or shall I say good day? My name is Joe Leach. I'm a gut specialist dietitian co-creator of this 14-day digestive health reboot and founder of Diabetes Disease, which is the largest online dietitian service specializing in digestive disorders.
+
+### 00:15.000 --> 00:28.000
+Living with digestive issues is challenging, but what we've seen over the years working with so many clients and even with symptoms ourselves is that you do not have to live your life that way. There is a solution.
+
+### 00:28.000 --> 00:48.000
+Our goal is to empower individuals like you to take back control of your health and live your best life, whether you've got long-term IBS or diverticulitis or IBD, or maybe you just want to improve your gut health because you're aware of how important it is for your overall health and longevity.
+
+### 00:48.000 --> 00:55.000
+Whatever the case, I'm super happy that you found us here and we can't wait to start with you in this reboot program.
+
+### 00:55.000 --> 01:05.000
+One of my favorite quotes I've had written down for as long as I can remember, it goes, when the student is ready, so shall the teacher appear.
+
+### 01:05.000 --> 01:12.000
+And I feel like this is just one of those moments where you've found us and it's super fortunate.
+
+### 01:12.000 --> 01:17.000
+And I'm just really excited and hopeful that we can help you.
+
+### 01:17.000 --> 01:26.000
+So in this program, the goal is to get you symptom-free and with a happy gut and rejuvening energy and just feeling like your best self.
+
+### 01:26.000 --> 01:34.000
+And so we're going to focus very much on the diet component, the FODMAT elimination phase in particular, and we'll do that step by step.
+
+### 01:34.000 --> 01:40.000
+And if you did purchase the reintroduction program as well, then we'll also look at that afterwards.
+
+### 01:40.000 --> 01:51.000
+But you should know that what we're teaching is a lot more than the FODMAT diet because for the vast majority of people actually diet is not the only factor at play here.
+
+### 01:51.000 --> 02:00.000
+And so we want to use this program as a way to introduce some other concepts and ideas that you need to know.
+
+### 02:00.000 --> 02:09.000
+That means there are other approaches, aside from the FODMAT diet, that can help because food intolerance and gut health is just so very individual.
+
+### 02:09.000 --> 02:16.000
+So even if you feel like you know a lot about the upcoming topics, make sure you watch all the upcoming lessons in order.
+
+### 02:16.000 --> 02:25.000
+Now as for the logistics of this program, it's a mix of written and video modules that you can do at your own pace.
+
+### 02:25.000 --> 02:35.000
+It's recommended you do them in the order they are listed, some lessons have got resources that you can download and save to your device, your laptop or you can print them off as well.
+
+### 02:35.000 --> 02:46.000
+And the lessons are taught by myself and also some of the gut specialist dietitians that we have on the team and you can learn more about myself and them as well in an upcoming lesson.
+
+### 02:46.000 --> 02:53.000
+The next step here is to find the drop down menu and tap the next lesson, which will be lesson number two.
+
+### 02:53.000 --> 02:58.000
+So if you're on a desktop or a tablet, it's probably going to be on the left hand side of your screen, the menu.
+
+### 02:58.000 --> 03:07.000
+And if you're on a mobile device or smartphone, you need to scroll back up to the top to find the drop down menu and there you can select lesson number two.
+
+### 03:07.000 --> 03:19.000
+Just remember if you are on a smartphone or mobile device, once you select the lesson, you need to then scroll down under the menu to actually view the lesson and then you can scroll back up to move on to the next one.
+
+### 03:19.000 --> 03:24.000
+Okay, I think that covers everything for us to get started. So we'll see you in the next lesson.
+
+## Terms to verify against the original audio
+- At 00:00, Whisper rendered the organization name as “Diabetes Disease”; the source filename suggests it may be “Diet vs Disease.” Do not treat the automatic rendering as verified.
+- Whisper rendered “FODMAT” several times; the likely intended term is “FODMAP,” but verify before treating this transcript as a corrected official transcript.
+- At 01:26, Whisper rendered “rejuvening”; the intended word may be “rejuvenating.”

@@ -1,0 +1,22 @@
+{
+  "name": "product-expert",
+  "version": "0.1.0+codex.20260924071255",
+  "description": "Answers questions about 14 Day Reboot using approved product information.",
+  "author": {
+    "name": "Product owner"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "14 Day Reboot Expert",
+    "shortDescription": "Get grounded answers about 14 Day Reboot.",
+    "longDescription": "Answers 14 Day Reboot questions from the owner's product materials and identifies gaps instead of guessing.",
+    "developerName": "Product owner",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "What does the welcome video explain?",
+      "How do I navigate the lessons?",
+      "What product information is still missing?"
+    ]
+  }
+}
