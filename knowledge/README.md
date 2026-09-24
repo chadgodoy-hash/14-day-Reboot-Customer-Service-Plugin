@@ -1,16 +1,24 @@
 # 14 Day Reboot product knowledge
 
-This folder contains the original source materials from the installed plugin plus materials supplied in `/Users/chadgodoy/Desktop/14 Day Reboot Information/` and read on 2026-09-24.
+This folder contains the original installed-plugin materials plus sources supplied in `/Users/chadgodoy/Desktop/14 Day Reboot Information/` and read on 2026-09-24.
 
-## Sources
+## Video sources and transcripts
 
-- `Membership Area welcome video.mp4` — original welcome/orientation source included with the plugin.
-- `welcome-video-transcript.md`, `Diet vs Disease Membership Area.txt`, and `.vtt` — transcript outputs for that original welcome/orientation source. Speech recognition can mishear names and specialist terms; see marked uncertainties.
-- `Diet vs Disease Membership Area.mp4` — media source currently in the Desktop folder (204.19 seconds). Its duration matches the supplied gut anatomy transcript, but its speech was not independently checked against that transcript.
-- `Understanding Your Gut Anatomy & Symptoms.pdf` — six-page transcript supplied in the Desktop folder.
+Each video has its own searchable transcript:
+
+- `Membership Area welcome video.mp4` — original welcome/orientation video; transcript: `welcome-video-transcript.md`.
+- `Diet vs Disease Membership Area.mp4` — Desktop copy of the welcome/orientation material; timestamped Whisper transcript: `Diet vs Disease Membership Area transcript.md`. Its speech is substantively similar to the original welcome transcript, but machine transcription can mishear names and terms.
+- `Rachel GI Effects fundamentals.mp4` — transcript: `Rachel GI Effects fundamentals transcript.md`.
+- `What is gut microbiome and what is testing is worthwhile.mp4` — transcript: `What is gut microbiome and what is testing is worthwhile transcript.md`.
+
+The three new searchable transcripts were generated locally with OpenAI Whisper `base` on 2026-09-24. They are automatic speech recognition, not verified captions. Check names, technical terms, and unclear passages against the audio before treating exact wording as certain. The original welcome transcript also contains marked uncertain terms.
+
+## Other supplied materials
+
+- `Understanding Your Gut Anatomy & Symptoms.pdf` — six-page transcript supplied in the Desktop folder. It appears to be a separate lesson transcript, not a transcript of the three Desktop videos above.
 - `Understanding Your Gut Anatomy & Symptoms transcript.md` — searchable text extracted from that PDF. Page divisions are retained; apparent transcript errors were not silently corrected.
 - `About your teachers.png` and `About your teachers.md` — supplied teacher/profile screenshot and its searchable transcription. Credentials and contact details should be checked against current official materials.
-- `Rachel.mp4` — 420.74-second media source supplied in the Desktop folder. No separate transcript was supplied.
 - `overview.md` — concise facts grounded in the sources and their limits.
+- `Diet vs Disease Membership Area.txt` and `.vtt` — legacy automatic transcript outputs for the original welcome material.
 
-The Desktop `Diet vs Disease Membership Area.mp4` was not independently checked against the similarly timed PDF transcript. `Rachel.mp4` has no searchable transcript. Do not infer spoken content from filenames. Transcript and image transcriptions may contain errors. The materials do not establish current pricing, policy, complete course contents, or individualized clinical advice.
+Transcripts and image transcriptions may contain errors. The materials do not establish current pricing, policy, complete course contents, or individualized clinical advice.

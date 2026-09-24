@@ -1,5 +1,5 @@
 # Membership area welcome video transcript
-**Source:** `Diet vs Disease Membership Area.mp4`
+**Source:** `Membership Area welcome video.mp4` (original plugin copy)
 **Transcription:** OpenAI Whisper `base`, English; generated locally. Automated speech recognition can mishear names and specialist terms.
 
 ## What this video says
