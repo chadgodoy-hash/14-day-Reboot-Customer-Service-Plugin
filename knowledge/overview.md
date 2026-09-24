@@ -43,3 +43,10 @@ The sources do not establish current pricing, refund or other policy, full cours
 - The two full 7-day PDFs provide imperial and metric versions of another seven-day menu, nutrition information, shopping lists, and recipes. Do not assume these two plans are interchangeable with the Week 2 versions.
 - The plans state most recipes are one serving and discuss doubling ingredients when cooking for two. The plan materials also emphasize portion sizes. Preserve the exact servings, quantities, and unit system from the selected PDF; searchable text can flatten tables.
 - These documents describe supplied program materials. They are not individualized dietary advice. Follow the plugin's health-related boundaries for personal symptoms or restrictive diet decisions.
+
+
+## Additional meal resources
+
+- The folder includes a seven-day vegetarian low-FODMAP plan with shopping list and a separate one-page vegetarian meal-plan outline. Treat them as separate source documents and refer to the chosen PDF for the full menu and exact quantities.
+- It also includes an MTHFR meal-plan PDF, a low-FODMAP fast-food/restaurant guide, and breakfast, lunch, dinner, and snack recipe collections in imperial and metric versions. These are source materials; do not infer personal suitability, clinical benefits, or substitutions beyond what they state.
+- Searchable `.md` text extractions accompany these PDFs. Use the original PDF for layout, recipe quantities, units, and tables because extraction can flatten or misorder content.

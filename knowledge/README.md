@@ -22,8 +22,16 @@ The following source PDFs and searchable text extractions were added from the De
 - `Low-FODMAP-Diet-Meal-Plan-Week-2-Metric-Measurements.pdf` and `.md` — 42-page Week 2 plan using metric measurements.
 - `full-7-day-low-fodmap-meal-plan-imperial.pdf` and `.md` — 28-page full seven-day plan using imperial measurements.
 - `full-7-day-low-fodmap-meal-plan-metric.pdf` and `.md` — 28-page full seven-day plan using metric measurements.
+- `7-day_vegetarian_low_fodmap_plan_and_shopping_list_v2.pptx.pdf` and `.md` — 36-page vegetarian low-FODMAP plan and shopping list.
+- `VEGETARIAN_7DAY_MEAL_PLAN_OUTLINE.pdf` and `.md` — one-page vegetarian seven-day outline.
+- `MTHFR-Meal-Plan.pdf` and `.md` — 23-page meal-plan source; describe only what the source itself states.
+- `V2-Low-FODMAP-Fast-Food-and-Restaurant-Guide.pdf` and `.md` — 30-page restaurant/fast-food guide.
+- Breakfast recipes: `low-fodmap-diet-breakfast-recipes.pdf` and `low-fodmap-diet-breakfast-recipes-metric.pdf`, each with a searchable `.md` extraction.
+- Dinner recipes: `low-fodmap-diet-dinner-recipes-imperial.pdf` and `low-fodmap-diet-dinner-recipes-metric.pdf`, each with a searchable `.md` extraction.
+- Lunch recipes: `low-fodmap-diet-lunch-recipes-imperial.pdf` and `low-fodmap-diet-lunch-recipes-metric.pdf`, each with a searchable `.md` extraction.
+- Snack recipes: `low-fodmap-diet-snack-recipes-imperial.pdf` and `low-fodmap-diet-snack-recipes-metric.pdf`, each with a searchable `.md` extraction.
 
-Use the PDF as the source of truth for recipe quantities, units, tables, and layout. Text extraction can flatten or misorder table content. The plans state that most recipes are for one serving and describe how to double ingredients when cooking for two; preserve each PDF's exact quantities and unit system.
+Use each PDF as the source of truth for recipe quantities, units, tables, and layout. Text extraction can flatten or misorder table content. Preserve each PDF's exact quantities and unit system. Keep the vegetarian plan and outline distinct, and do not treat the MTHFR plan as individualized medical guidance.
 
 ## Other supplied materials
 
