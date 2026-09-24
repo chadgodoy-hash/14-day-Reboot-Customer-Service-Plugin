@@ -33,6 +33,13 @@ The following source PDFs and searchable text extractions were added from the De
 
 Use each PDF as the source of truth for recipe quantities, units, tables, and layout. Text extraction can flatten or misorder table content. Preserve each PDF's exact quantities and unit system. Keep the vegetarian plan and outline distinct, and do not treat the MTHFR plan as individualized medical guidance.
 
+## FODMAP guides and cooking resources
+
+- `Cooking then Removing High FODMAP Ingredients.pdf` and `.md` — one-page transcript on cooking with high-FODMAP ingredients and infused oil; transcript extraction may contain speech-recognition errors.
+- `Easy-FODMAPs-Swaps-List.pdf` and `.md` — three-page visual food-swap list. The text extraction captures labels but not the full visual pairings; use the PDF for interpretation.
+- `FODMAP Label Reading Tutorial + High FODMAP Ingredients Guide.pdf` and `.md` — two-page lesson/guide.
+- `FODMAP-Label-Reading-Guide.pdf` and `.md` — one-page visual ingredient guide. Use the PDF for color-coded categories and layout.
+
 ## Other supplied materials
 
 - `Understanding Your Gut Anatomy & Symptoms.pdf` — six-page transcript supplied in the Desktop folder. It appears to be a separate lesson transcript, not a transcript of the video files above.

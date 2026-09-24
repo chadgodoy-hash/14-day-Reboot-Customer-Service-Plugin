@@ -50,3 +50,9 @@ The sources do not establish current pricing, refund or other policy, full cours
 - The folder includes a seven-day vegetarian low-FODMAP plan with shopping list and a separate one-page vegetarian meal-plan outline. Treat them as separate source documents and refer to the chosen PDF for the full menu and exact quantities.
 - It also includes an MTHFR meal-plan PDF, a low-FODMAP fast-food/restaurant guide, and breakfast, lunch, dinner, and snack recipe collections in imperial and metric versions. These are source materials; do not infer personal suitability, clinical benefits, or substitutions beyond what they state.
 - Searchable `.md` text extractions accompany these PDFs. Use the original PDF for layout, recipe quantities, units, and tables because extraction can flatten or misorder content.
+
+
+## FODMAP swaps, labels, and cooking
+
+- The folder includes a cooking transcript about high-FODMAP ingredients and infused oil, a visual swaps list, a label-reading tutorial, and a color-coded ingredient guide.
+- The visual PDFs carry information through their layout and colors, so searchable text alone may lose the food pairings or categories. Refer to the original PDF when answering specific ingredient questions. These are supplied educational materials; do not tailor restrictions or substitutions to an individual's health.
